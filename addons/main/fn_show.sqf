@@ -1,0 +1,1 @@
+uiNamespace setVariable ["#CursorAlpha", 1];

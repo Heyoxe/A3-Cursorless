@@ -1,0 +1,12 @@
+name = "CursorLess";
+tooltip = "CursorLess";
+description = "CursorLess";
+tooltipOwned = "CursorLess";
+overview = "CursorLess";
+author = "Echo (Heyoxe)";
+actionName = "GitHub";
+action = " https://github.com/Heyoxe/A3-Cursorless";
+picture = "\e\cursorless\addons\main\logo.paa";
+logo = "\e\cursorless\addons\main\logo.paa";
+logoOver = "\e\cursorless\addons\main\logo.paa";
+overviewPicture = "\e\cursorless\addons\main\logo.paa";
